@@ -1,9 +1,4 @@
 # Zomboid Survival
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![version](https://img.shields.io/badge/version-dev-brightgreen)
-[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-[![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb)
 
 A Unity based First Person Shooter game with a Zombie theme built with Unity terrain using raycasting for shooting and the core mechanics you'd expect in an FPS with available item pick-ups. Zombies use AI navigation and precise pathfinding to chase down the player. The game also has a HUD interface which is VR compatible.
 
@@ -29,11 +24,6 @@ Developed with Unity 2019.1.14f1.
 - Three guns are available, Pistol, Shotgun and Carbine rifle with some pre-loaded bullets. To change between guns, use the scroller of your mouse.
 - Hunt down all the zombies in the terrain by finding them to win.
 
-## License
-This project is licensed under the MIT License, a short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
-
-<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
-
 ## Contributing
 - Fork this project by clicking the ```Fork``` button on top right corner of this page.
 - Open terminal/console window. 
@@ -57,8 +47,4 @@ $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/saivittalb/) 
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
-<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
