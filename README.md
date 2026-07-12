@@ -47,4 +47,9 @@ $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
 
+👩‍💻 Author
+Supriya C S
 
+Master of Computer Applications (MCA) Student
+
+JSS Science and Technology University, Mysuru
